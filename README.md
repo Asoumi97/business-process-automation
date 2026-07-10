@@ -12,6 +12,14 @@ During my role as a Working Student at Sanofi, I designed and implemented VBA-ba
 
 ---
 
+## Project Summary
+
+One of the main projects involved developing a **modular Excel-based application** consisting of multiple interconnected **VBA UserForms** to support structured data entry, automated validation, reporting, and workflow automation.
+
+The application included several custom forms for different laboratory workflows, automated data management, interactive user interfaces, and reporting functionality to improve efficiency and reduce manual work.
+
+---
+
 ## Key Features
 
 - VBA macro development
