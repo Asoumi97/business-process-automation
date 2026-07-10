@@ -46,13 +46,6 @@ The application included several custom forms for different laboratory workflows
 
 ---
 
-## Challenges
-
-- Maintaining modular code in VBA
-- Preventing invalid user input
-- Handling large Excel datasets
-- Creating reusable UserForms
-- Keeping business logic separated from UI
 ## Technologies
 
 - Microsoft Excel
@@ -60,6 +53,16 @@ The application included several custom forms for different laboratory workflows
 - Pivot Tables
 - Microsoft Office
 - SharePoint
+
+---
+
+## Challenges
+
+- Maintaining modular code in VBA
+- Preventing invalid user input
+- Handling large Excel datasets
+- Creating reusable UserForms
+- Keeping business logic separated from UI
 
 ---
 
