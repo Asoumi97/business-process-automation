@@ -34,6 +34,25 @@ The application included several custom forms for different laboratory workflows
 
 ---
 
+## My Responsibilities
+
+- Designed the application architecture
+- Developed reusable VBA modules
+- Built multiple UserForms
+- Implemented validation logic
+- Automated report generation
+- Optimized existing workflows
+- Reduced manual processing time
+
+---
+
+## Challenges
+
+- Maintaining modular code in VBA
+- Preventing invalid user input
+- Handling large Excel datasets
+- Creating reusable UserForms
+- Keeping business logic separated from UI
 ## Technologies
 
 - Microsoft Excel
@@ -53,3 +72,13 @@ The application included several custom forms for different laboratory workflows
 - User Interface Design
 - Data Validation
 - Reporting
+
+---
+
+## Results
+
+- Reduced manual work
+- Faster report generation
+- Improved data quality
+- Standardized laboratory workflows
+- Easier maintenance through modular design
